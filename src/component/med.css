@@ -1,0 +1,28 @@
+.back{
+  background: rgb(196,124,245);
+  background: -moz-linear-gradient(90deg, rgba(196,124,245,1) 0%, rgba(250,108,108,1) 50%, rgba(255,194,109,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(196,124,245,1) 0%, rgba(250,108,108,1) 50%, rgba(255,194,109,1) 100%);
+  background: linear-gradient(90deg, rgba(196,124,245,1) 0%, rgba(250,108,108,1) 50%, rgba(255,194,109,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c47cf5",endColorstr="#ffc26d",GradientType=1);}
+
+  .heading{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 50px; 
+  }
+  .heading1{
+    text-align: center;
+    font-size: x-large;
+    text-decoration: none;
+  }
+  .heading2{
+   
+    text-decoration: none;
+  }
+  .box{
+    display: flex;
+    margin: 25px;
+  }
+  .card{
+    margin-left: 15px;
+  }
